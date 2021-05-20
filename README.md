@@ -1,15 +1,16 @@
 ### Hi there 👋
 
+<!--**MonianHello/MonianHello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-**MonianHello/MonianHello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MonianHello 
 
-Here are some ideas to get you started:
+High school student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on script language
+- 🌱 I’m currently learning C++
+- ~~👯 I’m looking to collaborate on ...~~
+- ~~🤔 I’m looking for help with ...~~
+- ~~💬 Ask me about ...~~
+- 📫 How to reach me: zhao17292@126.com or search user MonianHello
+- 😄 Pronouns: tunas(?)
+- ⚡ Fun fact: Boy's mind girl don't guess 
